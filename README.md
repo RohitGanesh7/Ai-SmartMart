@@ -571,17 +571,4 @@ Special thanks to:
 
 </div>
 
----
 
-<div align="center">
-
-### 📞 **Support & Contact**
-
-- 📧 **Email**: support@shopsphere.com
-- 💬 **Discord**: [Join our community](https://discord.gg/shopsphere)
-- 🐦 **Twitter**: [@ShopSphere](https://twitter.com/shopsphere)
-- 📋 **Documentation**: [docs.shopsphere.com](https://docs.shopsphere.com)
-
-**⭐ Don't forget to star the repository!**
-
-</div>
