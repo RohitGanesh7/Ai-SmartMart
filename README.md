@@ -86,9 +86,7 @@ Our multi-agent system features three specialized AI assistants:
 
 ## 🏗️ Architecture
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop" alt="System Architecture">
-</div>
+
 
 ```mermaid
 graph TB
